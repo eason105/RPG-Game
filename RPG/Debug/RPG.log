@@ -1,0 +1,61 @@
+﻿  stdafx.cpp
+  RPG.cpp
+c:\users\user\desktop\rpg\rpg\rpg\rpg.cpp(88): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\rpg.cpp(103): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\rpg.cpp(218): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\rpg.cpp(220): warning C4018: '<': signed/unsigned 不相符
+  bag.cpp
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(25): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(34): warning C4018: '>=': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(49): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(58): warning C4018: '>=': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(73): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(82): warning C4018: '>=': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(93): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(102): warning C4018: '>=': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(155): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(163): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(171): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\bag.cpp(179): warning C4018: '<': signed/unsigned 不相符
+  clothes.cpp
+c:\users\user\desktop\rpg\rpg\rpg\clothes.cpp(27): warning C4018: '<': signed/unsigned 不相符
+  fighter.cpp
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(61): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(67): warning C4018: '>': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(116): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(117): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(133): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(134): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(150): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(151): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(167): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(168): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(255): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(279): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(286): warning C4018: '>=': signed/unsigned 不相符
+  food.cpp
+c:\users\user\desktop\rpg\rpg\rpg\food.cpp(22): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\food.cpp(33): warning C4101: 'attack': 未參考的區域變數
+c:\users\user\desktop\rpg\rpg\rpg\food.cpp(34): warning C4101: 'defence': 未參考的區域變數
+  map.cpp
+c:\users\user\desktop\rpg\rpg\rpg\map.cpp(40): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\map.cpp(41): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\map.cpp(53): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\map.cpp(54): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\map.cpp(55): warning C4018: '<': signed/unsigned 不相符
+  monsterdata.cpp
+c:\users\user\desktop\rpg\rpg\rpg\monsterdata.cpp(24): warning C4018: '<': signed/unsigned 不相符
+  shop.cpp
+c:\users\user\desktop\rpg\rpg\rpg\shop.cpp(34): warning C4018: '>=': signed/unsigned 不相符
+c:\users\user\desktop\rpg\rpg\rpg\shop.cpp(57): warning C4018: '>=': signed/unsigned 不相符
+  skill.cpp
+c:\users\user\desktop\rpg\rpg\rpg\skill.cpp(25): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\rpg\rpg\rpg\skill.cpp(26): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\rpg\rpg\rpg\skill.cpp(27): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\rpg\rpg\rpg\skill.cpp(28): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\rpg\rpg\rpg\skill.cpp(32): warning C4018: '<': signed/unsigned 不相符
+  weapon.cpp
+c:\users\user\desktop\rpg\rpg\rpg\weapon.cpp(27): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼...
+c:\users\user\desktop\rpg\rpg\rpg\fighter.cpp(109): warning C4715: 'CFighter::fight': 不是所有控制路徑都傳回值
+  RPG.vcxproj -> C:\Users\user\Desktop\RPG\RPG\Debug\RPG.exe
